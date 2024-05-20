@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="icon-1603-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-9C27B0-nodesc-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1603-9C27B0-nodesc-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1603-9C27B0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-9C27B0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-9C27B0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>سكن1‎‎‎</name>
+      <description>عمارة 77 بجوار مسجد الرحمن وبجانب الخدمات </description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6524068,31.4323155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن3‎‎‎</name>
+      <description>عمارة امام مسجد الرحمن وبجانب الخدمات فى متجاورة ال 27 ‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6527233,31.4327046,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن4‎‎</name>
+      <description>عمارة فى 27 بجانب شركة شحن الكهربا وقريبة من جامعة دمياط</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6531471,31.4326473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن5‎‎</name>
+      <description>عمارة فى 27 بجوار شركة الكهرباء</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6534877,31.4327274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن6‎‎</name>
+      <description>عمارة فى 27 امام شركة الكهرباء </description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6537425,31.4327892,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن7‎</name>
+      <description>عمارة ب27 امام شركة الكهرباء</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6543004,31.4323933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن8‎‎</name>
+      <description>عمارة ب27 جوار شركة الكهرباء</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.654102,31.4331829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن9‎‎</name>
+      <description>عمارة ب27 جوار شركة الكهرباء</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6531846,31.4312696,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن10‎‎</name>
+      <description>عمارة قريبة من جامعة دمياط</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6528011,31.431233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن11‎‎</name>
+      <description>عمارة بجوار جامعة دمياط</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6525114,31.4311849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>عمارة 41</name>
+      <styleUrl>#icon-1603-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.6521839,31.4309564,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن12‎‎</name>
+      <description>عمارة فى 27 امام ميدان الساعة</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6515619,31.4307363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن13‎‎‎</name>
+      <description>مناسب لطلاب جامعة دمياط امام الجامعة‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6511623,31.4306517,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>14سكن‎‎</name>
+      <description>مناسب لطلاب جامعة دمياط امام الجامعة‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6508618,31.4306219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن15‎‎</name>
+      <description>مناسب لطلاب جامعة دمياط امام الجامعة‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6505749,31.4305365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن16‎‎</name>
+      <description>مناسب لطلاب جامعة دمياط امام الجامعة‎ وقريب من الموقف الغربى</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6501779,31.4304793,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن17‎‎</name>
+      <description>عمارة فى السبعين وقريبة من جامعة دمياط</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6527984,31.4298796,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن18‎‎</name>
+      <description>عمارة فى السبعين وقريبة من جامعة دمياط</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6531042,31.4294997,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن19‎‎</name>
+      <description>عمارة فى السبعين وقريبة من جامعة دمياط وقريبة من شارع المكتبة</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6534856,31.4282264,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن20‎‎</name>
+      <description>سكن فى السبعين ومناسب لطلبة جامعة دمياط</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6545478,31.4276771,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن21‎‎</name>
+      <description>سكن مناسب لطلبة جامعة دمياط</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6545531,31.4265396,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن22‎‎</name>
+      <description>سكن فى شارع المكتبة مناسب لطلبة جامعة دمياط</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6555107,31.4263176,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن23‎‎‎</name>
+      <description>عمارة على اخر سور جامعة دمياط امام منطقة خدمات السحراوى‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6559635,31.4202201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن24‎‎</name>
+      <description>عمارة على اخر سور جامعة دمياط امام منطقة خدمات السحراوى‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6566903,31.4204147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن25‎‎</name>
+      <description>عمارة على اخر سور جامعة دمياط امام منطقة خدمات السحراوى‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6565267,31.4199615,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن26‎‎</name>
+      <description>عمارة على اخر سور جامعة دمياط امام منطقة خدمات السحراوى‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6563578,31.4210602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن27‎‎</name>
+      <description>عمارة امام منطقة السحراوى وعلى طريق مستشفى الازهر</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6583882,31.4207901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن دمياط الجديدة</name>
+      <styleUrl>#icon-1603-9C27B0-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.6771279,31.4259444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن28‎‎</name>
+      <description>سكن امام مشتشفى الازهر</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6822415,31.4274321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن29‎‎</name>
+      <description>سكن مناسب لمن يعمل فى مستشفى الازهر</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6818357,31.4286863,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن30‎‎‎</name>
+      <description>سكن مناسب لمن يعمل بمستشفى الازهر‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6812429,31.4289449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن31‎‎</name>
+      <description>سكن مناسب لمن يعمل بمستشفى الازهر‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.680787,31.4294873,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن32‎‎</name>
+      <description>سكن فى منطقة راقية للعائلات</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6819206,31.4362098,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن33‎‎</name>
+      <description>سكن فى الصعيدى الجديد قريب من الخدمات</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6586477,31.4297252,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن34‎‎‎</name>
+      <description>سكن فى السبعين قريب من الصعيدى الجديد وخدماته‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6580737,31.4289882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن35‎‎</name>
+      <description>سكن فى السبعين قريب من الصعيدى الجديد وخدماته‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6582722,31.4285991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن36‎‎</name>
+      <description>سكن راقى للعائلات</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6843509,31.4469097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن37‎‎</name>
+      <description>سكن راقى للعائلات</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6856437,31.446047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن38‎‎‎</name>
+      <description>سكن مناسب لطلبة التربية النوعبة‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.688503,31.4456763,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن39‎‎</name>
+      <description>سكن مناسب لطلبة التربية النوعبة‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6886988,31.4455116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن40‎‎</name>
+      <description>سكن مناسب لطلبة التربية النوعبة‎</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6913019,31.4454383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن41‎‎</name>
+      <description>سكن راقى وقريب من الخدمات مناسب لطلبة جامعة حورس</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6565779,31.4406739,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن42‎‎</name>
+      <description>سكن راقى وقريب من الخدمات مناسب لطلبة جامعة حورس</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.656603,31.4405795,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن43‎‎</name>
+      <description>سكن راقى وقريب من الخدمات مناسب لطلبة جامعة حورس</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.656658,31.4404456,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن44‎‎</name>
+      <description>سكن راقى وقريب من الخدمات مناسب لطلبة جامعة حورس</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6566821,31.4401001,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن45‎‎</name>
+      <description>سكن راقى وقريب من الخدمات مناسب لطلبة جامعة حورس</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6566594,31.4389917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>سكن2‎‎</name>
+      <description>عمارة بجوار مسجد الرحمن قريبة من جامعة دمياط وقريبة من الخدمات</description>
+      <styleUrl>#icon-1603-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          31.6522485,31.4324025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
